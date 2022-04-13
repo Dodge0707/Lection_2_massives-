@@ -1,0 +1,15 @@
+D:\geek brains\C#\Lection_2\004_Array_line\bin\Debug\net6.0\004_Array_line.exe
+D:\geek brains\C#\Lection_2\004_Array_line\bin\Debug\net6.0\004_Array_line.deps.json
+D:\geek brains\C#\Lection_2\004_Array_line\bin\Debug\net6.0\004_Array_line.runtimeconfig.json
+D:\geek brains\C#\Lection_2\004_Array_line\bin\Debug\net6.0\004_Array_line.dll
+D:\geek brains\C#\Lection_2\004_Array_line\bin\Debug\net6.0\004_Array_line.pdb
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\004_Array_line.csproj.AssemblyReference.cache
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\004_Array_line.GeneratedMSBuildEditorConfig.editorconfig
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\004_Array_line.AssemblyInfoInputs.cache
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\004_Array_line.AssemblyInfo.cs
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\004_Array_line.csproj.CoreCompileInputs.cache
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\004_Array_line.dll
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\refint\004_Array_line.dll
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\004_Array_line.pdb
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\004_Array_line.genruntimeconfig.cache
+D:\geek brains\C#\Lection_2\004_Array_line\obj\Debug\net6.0\ref\004_Array_line.dll
